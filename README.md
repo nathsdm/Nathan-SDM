@@ -13,7 +13,7 @@ I'm currently studying at Télécom SudParis, a graduate engineering school in E
     <a href="https://www.telecom-sudparis.eu/" target="_blank" rel="noreferrer">
       <img src="./images/TSP.jpg" alt="Télécom SudParis" style="width: 45%;">
     </a><a href="https://www.strasbourg.eu/" target="_blank" rel="noreferrer">
-      <img src="./images/strasbourg.png" alt="Evry-Courcouronnes location" style="width: 45%;">
+      <img src="./images/Evry.png" alt="Evry-Courcouronnes location" style="width: 45%;">
     </a>
     <p>Télécom SudParis, Graduate Engineering School since 1979</p>
   </div>
