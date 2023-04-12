@@ -11,9 +11,9 @@ I'm currently studying at Télécom SudParis, a graduate engineering school in E
 <div align="center" style="display: flex; justify-content: center; align-items: center; flex-direction:row">
   <div style="flex: 1;">
     <a href="https://www.telecom-sudparis.eu/" target="_blank" rel="noreferrer">
-      <img src="./images/TSP.jfif" alt="Télécom Physique Strasbourg" style="width: 45%;">
+      <img src="./images/TSP.jpeg" alt="Télécom SudParis" style="width: 45%;">
     </a><a href="https://www.strasbourg.eu/" target="_blank" rel="noreferrer">
-      <img src="./images/strasbourg.png" alt="Strasbourg location" style="width: 45%;">
+      <img src="./images/strasbourg.png" alt="Evry-Courcouronnes location" style="width: 45%;">
     </a>
     <p>Télécom SudParis, Graduate Engineering School since 1979</p>
   </div>
