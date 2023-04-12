@@ -12,7 +12,7 @@ I'm currently studying at Télécom SudParis, a graduate engineering school in E
   <div style="flex: 1;">
     <a href="https://www.telecom-sudparis.eu/" target="_blank" rel="noreferrer">
       <img src="./images/TSP.jpg" alt="Télécom SudParis" style="width: 45%;">
-    </a><a href="https://www.strasbourg.eu/" target="_blank" rel="noreferrer">
+    </a><a href="https://evrycourcouronnes.fr/" target="_blank" rel="noreferrer">
       <img src="./images/Evry.png" alt="Evry-Courcouronnes location" style="width: 45%;">
     </a>
     <p>Télécom SudParis, Graduate Engineering School since 1979</p>
@@ -27,13 +27,13 @@ I'm currently studying at Télécom SudParis, a graduate engineering school in E
   <div>
     <h3>Programming languages :</h3>
     <p>
-        <img src="https://skillicons.dev/icons?i=py,c,html,css,js,md,matlab,mysql,sqlite" />
+        <img src="https://skillicons.dev/icons?i=py,html,css,js,md,mysql,sqlite,bash" />
     </p>
   </div>
   <div>
     <h3>And other :</h3>
     <p>
-      <img src="https://skillicons.dev/icons?i=git,docker,arduino,selenium,cmake" />
+      <img src="https://skillicons.dev/icons?i=git,selenium" />
     </p>
   </div>
   <div>
