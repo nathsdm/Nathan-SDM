@@ -11,7 +11,7 @@ I'm currently studying at Télécom SudParis, a graduate engineering school in E
 <div align="center" style="display: flex; justify-content: center; align-items: center; flex-direction:row">
   <div style="flex: 1;">
     <a href="https://www.telecom-sudparis.eu/" target="_blank" rel="noreferrer">
-      <img src="./images/TSP.jpeg" alt="Télécom SudParis" style="width: 45%;">
+      <img src="./images/TSP.jpg" alt="Télécom SudParis" style="width: 45%;">
     </a><a href="https://www.strasbourg.eu/" target="_blank" rel="noreferrer">
       <img src="./images/strasbourg.png" alt="Evry-Courcouronnes location" style="width: 45%;">
     </a>
