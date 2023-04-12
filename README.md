@@ -50,7 +50,7 @@ I'm currently studying at Télécom SudParis, a graduate engineering school in E
 
 ### **Python projects**
 
-* [PRO3600](https://github.com/nathsdm/PRO3600) : Mobile app and Desktop software that allows you to create, manage and update your Yu-gi-oh collection.
+* [PRO3600](https://github.com/nathsdm/PRO3600) : Mobile app and Desktop software that allows you to create, manage and update your Yu-gi-oh cards collection.
 * [Populations-interactions](https://github.com/nathsdm/Populations-interactions) : Application that models two populations interactions, considering homophily and pouplations proportions.
 * [Victor Hugo AI](https://github.com/nathsdm/Victor-Hugo-AI) : Attempt of making an AI that displays sentences in the style of Victor Hugo, based on "Les Misérables".
 
