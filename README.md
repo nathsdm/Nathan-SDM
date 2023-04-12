@@ -70,8 +70,10 @@ I'm currently studying at Télécom SudParis, a graduate engineering school in E
   <img alt="nathsdm's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=nathsdm&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"/>
   </a>
 </div>
+
 <p align="center">
-  <a href="mailto:aler9.dev@gmail.com">Mail</a> | <a href="https://alessandroros.com">Website</a> | <a href="https://www.linkedin.com/in/alessandro-ros/">LinkedIn</a>
+  <a href="mailto:nathan.soares_de_melo@telecom-sudparis.eu">Mail</a> | <a href="https://www.linkedin.com/in/nathan-soares-de-melo/">LinkedIn</a>
 </p>
+
 <h2 align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=115&section=footer"/></h2>
