@@ -51,6 +51,7 @@ I'm currently studying at Télécom SudParis, a graduate engineering school in E
 ### **Python projects**
 
 * [PRO3600](https://github.com/nathsdm/PRO3600) : Mobile app and Desktop software that allows you to create, manage and update your Yu-gi-oh collection.
+* [Populations-interactions](https://github.com/nathsdm/Populations-interactions) : Application that models two populations interactions, considering homophily and pouplations proportions.
 
 ### **Other perspectives**
 
