@@ -27,7 +27,7 @@ I'm currently studying at Télécom SudParis, a graduate engineering school in E
   <div>
     <h3>Programming languages :</h3>
     <p>
-        <img src="https://skillicons.dev/icons?i=py,html,css,js,md,mysql,sqlite,bash" />
+        <img src="https://skillicons.dev/icons?i=py,html,css,js,md,mysql,sqlite" />
     </p>
   </div>
   <div>
@@ -39,7 +39,7 @@ I'm currently studying at Télécom SudParis, a graduate engineering school in E
   <div>
   <h3>Platforms i use :</h3>
     <p>
-        <img src="https://skillicons.dev/icons?i=github,discord,bash,linux,raspberrypi,vscode" />
+        <img src="https://skillicons.dev/icons?i=github,discord,bash,linux,vscode" />
     </p>
   </div>
 </div>
