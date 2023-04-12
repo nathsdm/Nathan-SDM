@@ -72,7 +72,7 @@ I'm currently studying at Télécom SudParis, a graduate engineering school in E
 </div>
 
 <p align="center">
-  <a href="mailto:nathan.soares_de_melo@telecom-sudparis.eu">Mail</a> | <a href="https://www.linkedin.com/in/nathan-soares-de-melo/">LinkedIn</a>
+  <a href="mailto:nathan.soares_de_melo@telecom-sudparis.eu">Mail</a> | <a href="https://www.linkedin.com/in/nathan-soares-de-melo/" target="_blank">LinkedIn</a>
 </p>
 
 <h2 align="center">
