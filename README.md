@@ -10,12 +10,12 @@ I'm currently studying at Télécom SudParis, a graduate engineering school in E
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; flex-direction:row">
   <div style="flex: 1;">
-    <a href="https://www.telecom-physique.fr/" target="_blank" rel="noreferrer">
-      <img src="./images/TPS.jfif" alt="Télécom Physique Strasbourg" style="width: 45%;">
+    <a href="https://www.telecom-sudparis.eu/" target="_blank" rel="noreferrer">
+      <img src="./images/TSP.jfif" alt="Télécom Physique Strasbourg" style="width: 45%;">
     </a><a href="https://www.strasbourg.eu/" target="_blank" rel="noreferrer">
       <img src="./images/strasbourg.png" alt="Strasbourg location" style="width: 45%;">
     </a>
-    <p>Télécom Physique Strasbourg, Graduate Engineering School since 1970</p>
+    <p>Télécom SudParis, Graduate Engineering School since 1979</p>
   </div>
 </div>
 
