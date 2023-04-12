@@ -71,4 +71,5 @@ I'm currently studying at Télécom SudParis, a graduate engineering school in E
   </a>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=115&section=footer"/>
+<h2 align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=115&section=footer"/></h2>
