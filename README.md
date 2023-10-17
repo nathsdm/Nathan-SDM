@@ -68,7 +68,6 @@ I'm currently studying at Télécom SudParis, a graduate engineering school in E
 <div align='center'>
   <a href="https://github.com/nathsdm">
   <img alt="nathsdm's streak" src="https://streak-stats.demolab.com/?user=nathsdm&theme=monokai-metallian&hide_border=true" width="900px"/>
-  <img alt="nathsdm's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=nathsdm&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"/>
   </a>
 </div>
 
