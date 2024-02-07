@@ -67,12 +67,13 @@ I'm currently studying at Télécom SudParis, a graduate engineering school in E
 
 <div align='center'>
   <a href="https://github.com/nathsdm">
-  <img alt="nathsdm's streak" src="https://streak-stats.demolab.com/?user=nathsdm&theme=monokai-metallian&hide_border=true" width="900px"/>
+    <img alt="nathsdm's streak" src="https://streak-stats.demolab.com/?user=nathsdm&theme=monokai-metallian&hide_border=true" width="900px"/>
   </a>
 </div>
 
 <h2 align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=115&section=footer"/></h2>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=115&section=footer"/>
+</h2>
 <p align="center">
   <a href="mailto:nathan.soares_de_melo@telecom-sudparis.eu">Mail</a> | <a href="https://www.linkedin.com/in/nathan-soares-de-melo/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
 </p>
