@@ -11,9 +11,12 @@ I'm currently studying at ENSAE, a graduate engineering school in Palaiseau, Fra
 <div align="center" style="display: flex; justify-content: center; align-items: center; flex-direction:row">
   <div style="flex: 1;">
     <a href="https://www.ensae.fr/" target="_blank" rel="noreferrer">
-      <img src="https://variances.eu/wp-content/uploads/2018/06/DSC_0490-1006x640.jpg" alt="ENSAE" style="width: 45%;">
-    </a><a href="https://www.ville-palaiseau.fr/" target="_blank" rel="noreferrer">
-      <img src="https://francegeo.fr/img/carte/palaiseau.png" alt="Palaiseau location" style="width: 45%;">
+        <img src="https://variances.eu/wp-content/uploads/2018/06/DSC_0490-1006x640.jpg" 
+             alt="ENSAE" style="height: 300px; width: auto;">
+    </a>
+    <a href="https://www.ville-palaiseau.fr/" target="_blank" rel="noreferrer">
+        <img src="https://francegeo.fr/img/carte/palaiseau.png" 
+             alt="Palaiseau location" style="height: 300px; width: auto;">
     </a>
     <p>ENSAE, Graduate Engineering School since 1942</p>
   </div>
