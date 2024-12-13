@@ -2,20 +2,20 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=115&section=header"/>
 </p>Hello there :wave:, I'm <strong>Nathan SOARES DE MELO
 <br><br>
-🔵⚪🔴 <br><br> I'm a 20 years old french generalist engineering student at <br> <strong>Télécom SudParis</strong> <br><br> 🔵⚪🔴</strong></h1>
+🔵⚪🔴 <br><br> I'm a 22 years old french generalist engineering student at <br> <strong>ENSAE</strong> <br><br> 🔵⚪🔴</strong></h1>
 
 ## :mortar_board: **Where do I study ?**
 
-I'm currently studying at Télécom SudParis, a graduate engineering school in Evry-Courcouronnes, France. I'm in my 3rd year of a 5 years long program, called "Cycle Ingénieur". I'm currently in the generalist department.
+I'm currently studying at ENSAE, a graduate engineering school in Palaiseau, France. I'm in my 4th year of a 5 years long program, called "Cycle Ingénieur". I'm currently in the generalist department.
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; flex-direction:row">
   <div style="flex: 1;">
-    <a href="https://www.telecom-sudparis.eu/" target="_blank" rel="noreferrer">
-      <img src="./images/TSP.jpg" alt="Télécom SudParis" style="width: 45%;">
-    </a><a href="https://evrycourcouronnes.fr/" target="_blank" rel="noreferrer">
-      <img src="./images/Evry.png" alt="Evry-Courcouronnes location" style="width: 45%;">
+    <a href="https://www.ensae.fr/" target="_blank" rel="noreferrer">
+      <img src="https://variances.eu/wp-content/uploads/2018/06/DSC_0490-1006x640.jpg" alt="ENSAE" style="width: 45%;">
+    </a><a href="https://www.ville-palaiseau.fr/" target="_blank" rel="noreferrer">
+      <img src="https://francegeo.fr/img/carte/palaiseau.png" alt="Palaiseau location" style="width: 45%;">
     </a>
-    <p>Télécom SudParis, Graduate Engineering School since 1979</p>
+    <p>ENSAE, Graduate Engineering School since 1942</p>
   </div>
 </div>
 
