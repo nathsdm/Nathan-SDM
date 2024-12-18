@@ -69,8 +69,8 @@ I'm currently studying at ENSAE, a graduate engineering school in Palaiseau, Fra
 ## :information_source: GitHub Stats
 
 <div align='center'>
-  <a href="https://github.com/nathsdm">
-    <img alt="nathsdm's streak" src="https://streak-stats.demolab.com/?user=nathsdm&theme=monokai-metallian&hide_border=true" width="900px"/>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=nathsdm&theme=monokai-metallian&hide_border=true" alt="GitHub Streak" />
   </a>
 </div>
 
